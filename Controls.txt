@@ -1,0 +1,10 @@
+﻿Controls
+
+
+
+
+Arrow keys for movement
+Enter = Start (Pause)
+Backspace = Select
+A = A
+S = B

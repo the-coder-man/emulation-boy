@@ -1,0 +1,10 @@
+﻿Copy and paste these into your terminal 
+
+
+Pip install pyboy
+
+
+Or
+
+
+Pip3 install pyboy
