@@ -14,7 +14,7 @@ Whether you're reliving childhood memories or discovering retro gems for the fir
 *  Lightweight and easy to install — no nonsense!
 
  upload your `.gb`, `.gbc`, or `.gba` files in and hit the upload button — it’s that easy.
-Note: This emulator is not affilated with nintendo
+Note: This emulator is not affiliated with nintendo
   Please only use ROMs that you legally own.
 
 
