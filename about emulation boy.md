@@ -1,5 +1,5 @@
 [Controls.txt](https://github.com/user-attachments/files/20682036/Controls.txt)
-[Get started!.txt](https://github.com/user-attachments/files/20682037/Get.started.txt)
+
 
  EMULATION BOY — "it's all in one!"
 
@@ -23,9 +23,9 @@ INSTELLATION GUIDE
 
 step 1: download this repostory
 
-step 2: run the rospistory in a compiler (i.e VScode)
+step 2: open the rospistory in a compiler (i.e VScode) and copy and paste the contents of this text file ([Get started!.txt](https://github.com/user-attachments/files/20682037/Get.started.txt)) into the terminal.
 
-step 3: when you run it you should see a new window pop up on your desktop.
+step 3: run the file when you do that you should see a new window pop up on your desktop.
 
 step 4: click the button in the new window and then upload any GB, GBC, or GBA ROMs from your computer files.
 
@@ -33,3 +33,4 @@ step 5: enjoy a chunk of your childhood.
 
 
 credit goes to the MGBA team for the MGBA libary and Mads Ynddal for the pyboy libary.
+this project is not affilated or licenced by nintendo
