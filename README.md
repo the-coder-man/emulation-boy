@@ -1,7 +1,7 @@
 [Controls.txt](https://github.com/user-attachments/files/20682036/Controls.txt)
 [Get started!.txt](https://github.com/user-attachments/files/20682037/Get.started.txt)
 
- EMULATION BOY — Your Free Ticket to Retro Gaming Glory!
+ EMULATION BOY — "it's all in one!"
 
 Step back into the golden age of handheld gaming with EMULATION BOY, the ultimate lightweight emulator for your favorite Nintendo classics.
 
