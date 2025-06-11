@@ -25,7 +25,7 @@ step 1: download this repostory
 
 step 2: open the rospistory in a compiler (i.e VScode) and copy and paste the contents of this text file ([Get started!.txt](https://github.com/user-attachments/files/20682037/Get.started.txt)) into the terminal.
 
-step 3: run the file when you do that you should see a new window pop up on your desktop.
+step 3: run the file you should see a new window pop up on your desktop.
 
 step 4: click the button in the new window and then upload any GB, GBC, or GBA ROMs from your computer files.
 
