@@ -16,3 +16,17 @@ Whether you're reliving childhood memories or discovering retro gems for the fir
  upload your `.gb`, `.gbc`, or `.gba` files in and hit the upload button — it’s that easy.
 Note: This emulator is not affilated with nintendo
   Please only use ROMs that you legally own.
+
+
+
+INSTELLATION GUIDE
+
+step 1: download this repostory
+
+step 2: run the rospistory in a compiler (i.e VScode)
+
+step 3: when you run it you should see a new window pop up on your desktop.
+
+step 4: click the button in the new window and then upload any GB, GBC, or GBA ROMs from your computer files.
+
+step 5: enjoy a chunk of your childhood.
