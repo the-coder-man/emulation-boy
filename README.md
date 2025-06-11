@@ -10,7 +10,7 @@ Whether you're reliving childhood memories or discovering retro gems for the fir
 
 *  Smooth emulation for GB, GBC, and GBA titles
 *  Simple GUI with one-click ROM loading
-*  Controller support and keyboard input
+*  keyboard input
 *  Lightweight and easy to install — no nonsense!
 
  upload your `.gb`, `.gbc`, or `.gba` files in and hit the upload button — it’s that easy.
