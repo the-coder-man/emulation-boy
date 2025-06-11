@@ -30,3 +30,6 @@ step 3: when you run it you should see a new window pop up on your desktop.
 step 4: click the button in the new window and then upload any GB, GBC, or GBA ROMs from your computer files.
 
 step 5: enjoy a chunk of your childhood.
+
+
+credit goes to the MGBA team for the MGBA libary and Mads Ynddal for the pyboy libary.
