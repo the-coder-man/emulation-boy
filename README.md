@@ -19,7 +19,7 @@ Note: This emulator is not affilated with nintendo
 
 
 
-INSTELLATION GUIDE
+HOW TO INSTALL GUIDE
 
 step 1: download this repostory
 
