@@ -32,6 +32,9 @@ step 4: click the button in the new window and then upload any GB, GBC, or GBA R
 step 5: enjoy a chunk of your childhood.
 
 
+note: only works with macOS
+
+
 credit goes to the MGBA team for the MGBA libary and Mads Ynddal for the pyboy libary.
 
 this project is not affiliated or licenced by Nintendo
