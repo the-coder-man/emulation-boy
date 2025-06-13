@@ -43,7 +43,7 @@ class EmulatorLauncher:
         except Exception as e:
             messagebox.showerror("Error", f"Failed to run Game Boy ROM: {e}")
 
-    def run_mgba(self, filepath):  # note: you may want to replace the path with your own mGBA installation path.
+    def run_mgba(self, filepath): 
         try:
             subprocess.run(["mGBA.app/Contents/MacOS/mGBA", filepath], check=True)
         except FileNotFoundError:
