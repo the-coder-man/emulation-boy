@@ -45,7 +45,7 @@ class EmulatorLauncher:
 
     def run_mgba(self, filepath):  # note: you may want to replace the path with your own mGBA installation path.
         try:
-            subprocess.run(["/Users/kacobruda/Library/Mobile Documents/com~apple~CloudDocs/GB emulation/mGBA.app/Contents/MacOS/mGBA", filepath], check=True)
+            subprocess.run(["mGBA.app/Contents/MacOS/mGBA", filepath], check=True)
         except FileNotFoundError:
             messagebox.showerror("Error", "mGBA not found. Make sure it is installed and added to your system PATH.")
         except subprocess.CalledProcessError as e:
