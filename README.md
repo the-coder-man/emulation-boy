@@ -37,4 +37,4 @@ note: only works with macOS
 
 credit goes to the MGBA team for the MGBA libary and Mads Ynddal for the pyboy libary.
 
-this project is not affiliated or licenced by Nintendo
+this project is not affiliated or licensed by Nintendo
